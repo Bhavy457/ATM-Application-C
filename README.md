@@ -1,4 +1,4 @@
-# Banking-Application-C
+# ATM-Application-C
  
 ## Application Overview
 The C Banking Application is a command-line-based banking solution designed to provide users with essential banking functionalities. The application enables users to perform transactions such as depositing and withdrawing amounts, while also maintaining a detailed transaction history. Additionally, administrators have the capability to add new users and monitor their banking activities.
