@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1535555098 source:c:\users\kmhmu\downloads\compressed\atm service management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<math.h>
+
+1578133028 source:c:\users\kmhmu\documents\github\atm-service-management-system\atm service management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<math.h>
+
